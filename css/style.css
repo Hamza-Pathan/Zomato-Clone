@@ -43,7 +43,7 @@
 
 /* *********** Banner ************* */
 .banner {
-    background-image: url(/images/bckgrnd_img.jpeg);
+    background-image: url(../images/bckgrnd_img.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 50vh;
@@ -648,7 +648,7 @@ input {
 /* Media Query for Mobile 1 */
 @media screen and (min-width:300px) and (max-width:390px) {
     .banner {
-        background-image: url(/images/bckgrnd_img.jpeg);
+        background-image: url(../images/bckgrnd_img.jpeg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 30vh;
@@ -835,7 +835,7 @@ input {
 
 @media screen and (min-width:391px) and (max-width:500px) {
     .banner {
-        background-image: url(/images/bckgrnd_img.jpeg);
+        background-image: url(../images/bckgrnd_img.jpeg);
         background-repeat: no-repeat;
         background-size: cover;
         height: 43vh;
